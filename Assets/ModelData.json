@@ -1,0 +1,45 @@
+{
+    "Model": [
+        {
+            "name": "Remy",
+            "id": 0,
+            "transform": {
+                "position": "(0.00, -1.00, -5.50)",
+                "rotation": "(0.00, 180.00, 0.00)",
+                "scale": "(1.00, 1.00, 1.00)"
+            },
+            "highlight_component": [
+                {
+                    "name": "Tops",
+                    "id": 1,
+                    "position": "(0.00, -1.00, -5.50)"
+                },
+                {
+                    "name": "Body",
+                    "id": 2,
+                    "position": "(0.00, -1.00, -5.50)"
+                },
+                {
+                    "name": "Hair",
+                    "id": 3,
+                    "position": "(0.00, -1.00, -5.50)"
+                },
+                {
+                    "name": "Eyes",
+                    "id": 4,
+                    "position": "(0.00, -1.00, -5.50)"
+                },
+                {
+                    "name": "Bottoms",
+                    "id": 5,
+                    "position": "(0.00, -1.00, -5.50)"
+                },
+                {
+                    "name": "Shoes",
+                    "id": 6,
+                    "position": "(21.00, -1.00, -5.50)"
+                }
+            ]
+        }
+    ]
+}

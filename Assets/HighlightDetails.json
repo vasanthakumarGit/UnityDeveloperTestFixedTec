@@ -1,0 +1,15 @@
+{
+    "Model": [
+        {
+            "id": 0,
+            "highlightComponentId": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ]
+        }
+    ]
+}
